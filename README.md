@@ -11,7 +11,7 @@ para n₁ = 1.00, n₂ = 2.42: incidencia normal, ángulo de Brewster,
 ángulos de cruce, coeficientes R y T, y campos en el plano de incidencia.
 
 ## Cómo ejecutarlo
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/fs0820-eval2-fresnel-diamante/blob/main/Evaluacion02_Bryton_Jimena.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JimenaH12/fs0820-eval2-fresnel-diamante/blob/main/Evaluacion02_Bryton_Jimena.ipynb)
 
 O localmente:
 

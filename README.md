@@ -2,6 +2,7 @@
 **Problema 9.18 de Griffiths: interfaz aire/diamante**
 
 Jimena Hernández Tames · Bryton Ramírez Calderón
+
 Universidad de Costa Rica — II Ciclo 2026 · Prof. Marcela Hernández-Jiménez
 
 ## Descripción

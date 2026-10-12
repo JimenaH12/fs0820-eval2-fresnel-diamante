@@ -16,11 +16,10 @@ para n₁ = 1.00, n₂ = 2.42: incidencia normal, ángulo de Brewster,
 O localmente:
 
     pip install -r requirements.txt
-    jupyter notebook Evaluacion02_Bryton_Jimena.ipynb
+    jupyter notebook Evaluacion02_BRamirez_JHernandez.ipynb
 
 ## Contenido
-- `Evaluacion02_Bryton_Jimena.ipynb`: código, teoría e interpretación
-- `figuras/`: capturas de los campos a distintos ángulos
+- `Evaluacion02_BRamirez_JHernandez.ipynb`: código, teoría e interpretación
 
 ## Referencia
 D. J. Griffiths, *Introduction to Electrodynamics*, 4.ª ed., Cambridge University Press, 2017.
